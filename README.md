@@ -4,6 +4,7 @@
 
 This project aims to develop a predictive model that determines the likelihood of loan approval based on various features of loan applicants. By leveraging machine learning techniques, we analyze historical loan data to predict outcomes for new loan applications.
 
+
 ## 📁 Project Structure
 
 ```plaintext
