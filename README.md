@@ -17,6 +17,7 @@
 
 
 
+
 # 🌟 Loan Approval Prediction Project 🌟
 
 ## 📖 Overview
@@ -30,7 +31,7 @@ This project aims to develop a predictive model that determines the likelihood o
 Loan-approval-prediction/
 │
 ├── 📓 LoanApprovalEDA.ipynb          # Jupyter Notebook for Exploratory Data Analysis
-├── 📦 final_model.pkl                # Trained model for loan approval predictions
+├── 📦 final_model.pkl                # Trained model for loan appproval predictions
 ├── 📦 loan_approval_model.pkl         # Model used for predictions
 ├── 📊 loan_approval_predictions.csv    # Predictions made on new data
 ├── 🧪 test_Y3wMUE5_7gLdaTN.csv       # Test dataset
