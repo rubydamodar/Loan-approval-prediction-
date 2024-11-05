@@ -1,28 +1,3 @@
-
-
-
-l
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🌟 Loan Approval Prediction Project 🌟
 
 ## 📖 Overview
